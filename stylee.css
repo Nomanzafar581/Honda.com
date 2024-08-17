@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+}
+
+.h1color{
+    color: white;
+    background-color: red;
+}
+
+.h2color{
+    color:white;
+    background-color: red;
+    
+}
+
+#a1{
+    color: black;
+}
+
+#a2{
+    color: black;
+}
+
+#a3{
+    color: white;
+}
+
+table{
+    border: black; width: 100%;
+}
+
+table, td, th{
+    border-collapse: collapse;
+}
+
+th, td{
+    background-color: #96d4d4;
+}
